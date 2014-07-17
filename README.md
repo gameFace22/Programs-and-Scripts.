@@ -17,3 +17,13 @@ Run it by using,
 ./vpnbook.sh
 
 That simple :) 
+
+
+2.Python Script to crack a MD5:
+
+This script uses a normal dictionary file to reverse the original MD5 and print it.
+If you want to go for a bigger dictionary file,you can have a look at,
+http://dazzlepod.com/site_media/txt/passwords.txt.
+Save the dictionary file as dictionary.txt and run the program :D
+
+python filename.py
