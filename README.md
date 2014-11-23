@@ -28,3 +28,27 @@ http://dazzlepod.com/site_media/txt/passwords.txt.
 Save the dictionary file as dictionary.txt and run the program :D
 
 python filename.py
+
+
+3.Shell script to get the score and print in the terminal
+
+chmod 777 score.sh
+./score.sh
+
+Works *exactly* like vpnbook.sh.
+
+4.FCFS:
+
+g++ FCFS.cpp
+
+This program implements the standard First Come First Serve algorithm.
+This was completely coded by me from the beginning. 
+
+5.IP_RANGE:
+
+chmod 777 ip_range.sh
+./ip_range.sh
+
+This is a simple code which uses a for loop to get all the possible IP's from 172.17.xx.xx range(in which several are my college security cameras :P )
+I wrote this to get more IP's of the cameras which are all over my college :P
+Susshhh *secret*
