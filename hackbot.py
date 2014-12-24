@@ -35,7 +35,7 @@ while 1:
   ircmsg = ircmsg.strip('\n\r') 
   print(ircmsg) 
 
-  if ircmsg.find("Issue") != -1: 
+  if ircmsg.find("Hello" + botnick) != -1: 
     hello()
 
   if ircmsg.find("PING :") != -1: 
