@@ -27,6 +27,7 @@ ircsock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 ircsock.connect((server, 6667))
 ircsock.send("USER "+ botnick +" "+ botnick +" "+ botnick +" :This is hackbot.\n") 
 ircsock.send("NICK "+ botnick +"\n") 
+ircsock.send("PRIVMSG" + "Nickserv" + "identify" + "botprogram" + "\n" );
 joinchan(channel) 
 
 while 1: 
