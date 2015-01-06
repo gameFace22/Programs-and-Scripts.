@@ -52,3 +52,7 @@ chmod 777 ip_range.sh
 This is a simple code which uses a for loop to get all the possible IP's from 172.17.xx.xx range(in which several are my college security cameras :P )
 I wrote this to get more IP's of the cameras which are all over my college :P
 Susshhh *secret*
+
+6.Extended Eucledian Algorithm:
+
+I had to solve some problems given by my Cryptography sir which included finding GCD of two numbers using EEA. I was so lazy to table it out and find every value. :P
