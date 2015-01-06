@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-  int temp,iteration=1,q,r0,r1,r2=22,u0=1,u1=0,u2,v0=0,v1=1,v2,x0,y0,a,b,c;
+  int temp,iteration=1,q,r0,r1,r2=22,u0=1,u1=0,u2,v0=0,v1=1,v2,a,b;
   cout<<"Extended Eucledian Algorithm \n \n";
   cout<<"Enter the values of a,b \n \n";
   cin>>a>>b;
