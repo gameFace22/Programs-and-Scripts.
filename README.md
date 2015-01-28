@@ -57,8 +57,5 @@ Susshhh *secret*
 
 I had to solve some problems given by my Cryptography sir which included finding GCD of two numbers using EEA. I was so lazy to table it out and find every value. :P
 
-7. Apachecron
 
-This checks if the apache server is running and if not it starts the server.
-(Thanks to Niranjan for asking me to this :P)
 
