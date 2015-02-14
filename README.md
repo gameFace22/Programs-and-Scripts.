@@ -62,4 +62,8 @@ I had to solve some problems given by my Cryptography sir which included finding
 This script checks if a apache2 server is running and if not,it starts the server.
 (Thanks to Niranjan for asking me to do this ;) )
 
+8.Whatsapp Spammer
+
+Splinter is a python module which is so easy to use and also the documentation is so neat and well explained! I was trying to automate certain things and ended up creating a whatsapp spammer.You can even add your own functionalities + modules which you would like the program to send ;) 
+@niranjan94 +1 
 
